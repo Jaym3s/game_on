@@ -40,6 +40,7 @@ gem 'appsignal'
 # Use unicorn as the app server
 gem 'unicorn'
 gem 'unicorn-rails'
+gem 'rails_12factor'
 
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
